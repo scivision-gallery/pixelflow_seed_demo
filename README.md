@@ -9,6 +9,7 @@ R code used to run valve sorting in this notebook is available from the [Scivisi
 1. Create a conda environment
 
 `conda create -m stardist_seed python=3.10`
+
 `conda activate stardist_seed`
 
 2. Install dependencies
