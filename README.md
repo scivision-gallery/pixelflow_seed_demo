@@ -18,7 +18,7 @@ R code used to run valve sorting in this notebook is available from the [Scivisi
 
 `pip install git+https://github.com/alan-turing-institute/scivision.git@main`
 
-`pip install rpy2==3.5.13`
+`conda install -c conda-forge rpy2`
 
 `git clone https://github.com/scivision-gallery/pixelflow_seed_demo`
 
