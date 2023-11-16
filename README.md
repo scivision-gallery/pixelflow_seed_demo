@@ -23,5 +23,6 @@ R code used to run valve sorting in this notebook is available from the [Scivisi
 3. Open Jupyter Notebook:
 
 `pip install jupyter`
+
 `jupyter notebook`
 
