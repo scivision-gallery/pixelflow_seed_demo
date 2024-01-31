@@ -8,7 +8,8 @@ R code used to run valve sorting in this notebook is available from the [Scivisi
 ## How to run
 1. Create a conda environment
 
-`conda create -m stardist_seed python=3.10`
+`conda create -n stardist_seed python=3.10`
+
 `conda activate stardist_seed`
 
 2. Install dependencies
@@ -19,8 +20,11 @@ R code used to run valve sorting in this notebook is available from the [Scivisi
 
 `pip install rpy2==3.5.13`
 
+`git clone https://github.com/scivision-gallery/pixelflow_seed_demo`
+
 3. Open Jupyter Notebook:
 
 `pip install jupyter`
+
 `jupyter notebook`
 
